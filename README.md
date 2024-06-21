@@ -8,20 +8,20 @@
 - 📫 How to reach me: **skykoo2000@gmail.com**
 
 <h2 align="left">Portfolio Projects</h2>
+These are just a few examples of apps that I have been working on!
 <font size = "2">
 
-- Step Tracker: https://github.com/jeremykoo/step-tracker
-  - <img alt="StepTracker" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJ1bGc2a3BjM2g0azZxYXJzMGl4bGJvbGVuYWpxMnNoOXN4anFxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BfbUe877N4xsUhpcPc/giphy.webp"> <img alt="StepTracker" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJ1bGc2a3BjM2g0azZxYXJzMGl4bGJvbGVuYWpxMnNoOXN4anFxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BfbUe877N4xsUhpcPc/giphy.webp">
-- Higher Calling West
-  - <img alt="StepTracker" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJ1bGc2a3BjM2g0azZxYXJzMGl4bGJvbGVuYWpxMnNoOXN4anFxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BfbUe877N4xsUhpcPc/giphy.webp">
-- Bethel Grace
-  - <img alt="StepTracker" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJ1bGc2a3BjM2g0azZxYXJzMGl4bGJvbGVuYWpxMnNoOXN4anFxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BfbUe877N4xsUhpcPc/giphy.webp">
-- WhatsApp Clone: https://github.com/jeremykoo/whats-app-clone
-  - <img alt="StepTracker" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJ1bGc2a3BjM2g0azZxYXJzMGl4bGJvbGVuYWpxMnNoOXN4anFxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BfbUe877N4xsUhpcPc/giphy.webp">
-- Tik Tok Clone: https://github.com/jeremykoo/tik-tok-clone
-  - <img alt="StepTracker" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJ1bGc2a3BjM2g0azZxYXJzMGl4bGJvbGVuYWpxMnNoOXN4anFxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BfbUe877N4xsUhpcPc/giphy.webp">
-- AirBnB Clone: https://github.com/jeremykoo/airbnb-clone
-  - <img alt="StepTracker" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJ1bGc2a3BjM2g0azZxYXJzMGl4bGJvbGVuYWpxMnNoOXN4anFxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BfbUe877N4xsUhpcPc/giphy.webp">
+#### Higher Calling West (iOS & Android)
+<img alt="StepTracker" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJ1bGc2a3BjM2g0azZxYXJzMGl4bGJvbGVuYWpxMnNoOXN4anFxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BfbUe877N4xsUhpcPc/giphy.webp">
+
+#### Bethel Grace (iOS)
+<img alt="StepTracker" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJ1bGc2a3BjM2g0azZxYXJzMGl4bGJvbGVuYWpxMnNoOXN4anFxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BfbUe877N4xsUhpcPc/giphy.webp">
+
+#### Step Tracker (iOS): https://github.com/jeremykoo/step-tracker
+<img alt="StepTracker" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJ1bGc2a3BjM2g0azZxYXJzMGl4bGJvbGVuYWpxMnNoOXN4anFxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BfbUe877N4xsUhpcPc/giphy.webp"> <img alt="StepTracker" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJ1bGc2a3BjM2g0azZxYXJzMGl4bGJvbGVuYWpxMnNoOXN4anFxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BfbUe877N4xsUhpcPc/giphy.webp">
+
+#### WhatsApp Clone (iOS): https://github.com/jeremykoo/whats-app-clone
+<img alt="StepTracker" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJ1bGc2a3BjM2g0azZxYXJzMGl4bGJvbGVuYWpxMnNoOXN4anFxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BfbUe877N4xsUhpcPc/giphy.webp">
 </font>
 
 ---
