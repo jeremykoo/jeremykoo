@@ -7,14 +7,13 @@
 
 - 📫 How to reach me: **skykoo2000@gmail.com**
 
-<h2 align="left">Portfolio Projects</h2>
+### Portfolio Projects
 These are just a few examples of apps that I have been working on!
-<font size = "2">
 * Higher Calling West (iOS & Android)
 * Bethel Grace (iOS)
 * Step Tracker (iOS): https://github.com/jeremykoo/step-tracker
 * WhatsApp Clone (iOS): https://github.com/jeremykoo/whats-app-clone
-</font>
+
 
 ---
 
