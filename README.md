@@ -10,18 +10,10 @@
 <h2 align="left">Portfolio Projects</h2>
 These are just a few examples of apps that I have been working on!
 <font size = "2">
-
-#### Higher Calling West (iOS & Android)
-<img alt="StepTracker" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJ1bGc2a3BjM2g0azZxYXJzMGl4bGJvbGVuYWpxMnNoOXN4anFxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BfbUe877N4xsUhpcPc/giphy.webp">
-
-#### Bethel Grace (iOS)
-<img alt="StepTracker" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJ1bGc2a3BjM2g0azZxYXJzMGl4bGJvbGVuYWpxMnNoOXN4anFxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BfbUe877N4xsUhpcPc/giphy.webp">
-
-#### Step Tracker (iOS): https://github.com/jeremykoo/step-tracker
-<img alt="StepTracker" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJ1bGc2a3BjM2g0azZxYXJzMGl4bGJvbGVuYWpxMnNoOXN4anFxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BfbUe877N4xsUhpcPc/giphy.webp"> <img alt="StepTracker" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJ1bGc2a3BjM2g0azZxYXJzMGl4bGJvbGVuYWpxMnNoOXN4anFxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BfbUe877N4xsUhpcPc/giphy.webp">
-
-#### WhatsApp Clone (iOS): https://github.com/jeremykoo/whats-app-clone
-<img alt="StepTracker" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJ1bGc2a3BjM2g0azZxYXJzMGl4bGJvbGVuYWpxMnNoOXN4anFxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BfbUe877N4xsUhpcPc/giphy.webp">
+* Higher Calling West (iOS & Android)
+* Bethel Grace (iOS)
+* Step Tracker (iOS): https://github.com/jeremykoo/step-tracker
+* WhatsApp Clone (iOS): https://github.com/jeremykoo/whats-app-clone
 </font>
 
 ---
