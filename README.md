@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeremy Koo</h1>
-<h3 align="center">A passionate software engineer developer!</h3>
+<h3 align="center">A passionate software engineer and developer!</h3>
 
 - 🔭 I’m currently working on: **check my pinned repositories!**
 
