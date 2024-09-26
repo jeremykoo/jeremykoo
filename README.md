@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: **check my pinned repositories!**
 
-- 🌱 I’m currently learning **Swift, SwiftUI, various iOS Frameworks**
+- 🌱 I’m currently learning **JavaScript, HTML, CSS, React**
 
 - 📫 How to reach me: **skykoo2000@gmail.com**
 
