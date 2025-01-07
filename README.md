@@ -9,7 +9,7 @@
 
 ### Portfolio Projects
 These are just a few examples of apps that I have been working on!
-* Higher Calling West (iOS & Android)
+* Higher Calling West
 * Bethel Grace (iOS)
 * Step Tracker (iOS): https://github.com/jeremykoo/step-tracker
 * WhatsApp Clone (iOS): https://github.com/jeremykoo/whats-app-clone
